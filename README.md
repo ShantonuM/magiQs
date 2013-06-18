@@ -1,0 +1,4 @@
+magiQs
+======
+
+Internship competition 
