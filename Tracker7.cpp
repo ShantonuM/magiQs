@@ -1,7 +1,7 @@
-/*
+
 #include<opencv/cvaux.h>
 #include<opencv/highgui.h>
-#include<opencv/cxcore.h>
+#include<opencv/cv.h>
 #include<stdio.h>
 #include<iostream>
 #include<stdlib.h>
@@ -124,4 +124,3 @@ int main() {
 	return(0);
 }
 
-*/

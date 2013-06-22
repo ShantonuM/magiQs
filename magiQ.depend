@@ -114,3 +114,25 @@
 	<iostream>
 	<fstream>
 
+1371851870 source:c:\users\ganji\documents\github\magiqs\tracker7.cpp
+	<opencv/cvaux.h>
+	<opencv/highgui.h>
+	<opencv/cxcore.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
+1371886042 source:c:\users\ganji\documents\github\magiqs\fingertracker.cpp
+	<opencv/cv.h>
+	<opencv/cxcore.h>
+	<opencv/highgui.h>
+	<stdio.h>
+	<iostream>
+
+1371901997 source:c:\users\ganji\documents\github\magiqs\feature_detect.cpp
+	<opencv/cv.h>
+	<opencv/cxcore.h>
+	<opencv/highgui.h>
+	<stdio.h>
+	<iostream>
+
